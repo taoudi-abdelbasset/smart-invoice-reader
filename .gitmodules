@@ -1,0 +1,6 @@
+[submodule "smart-invoice-reader-backend"]
+	path = smart-invoice-reader-backend
+	url = https://github.com/taoudi-abdelbasset/smart-invoice-reader-backend.git
+[submodule "smart-invoice-reader-frontend"]
+	path = smart-invoice-reader-frontend
+	url = https://github.com/taoudi-abdelbasset/smart-invoice-reader-frontend.git
